@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#poem {
+    padding-bottom: 20px;
+}
+
+.heading {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.requests {
+    text-align: center;
+}
+
+#push {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#pictura {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.hiden {
+    display: none;
+}
